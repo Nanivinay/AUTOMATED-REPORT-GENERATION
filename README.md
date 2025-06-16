@@ -101,7 +101,12 @@ json :
 📤 Output
 The script generates a PDF file named:
 Report CSV:
+
 ![Image](https://github.com/user-attachments/assets/03661abc-7ba8-44ae-8eda-26546b98ab33)
+
+Report json:
+
+![Image](https://github.com/user-attachments/assets/a02291c5-7780-48e6-b5fa-6a0e73577222)
 
 Generated_Student_Report.pdf
 in the same directory as your script.
